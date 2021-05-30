@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   <!-- bootstrap cdn -->
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous" />
+
+   <!-- font awesome cdn -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/fontawesome.min.css" integrity="sha512-OdEXQYCOldjqUEsuMKsZRj93Ht23QRlhIb8E/X0sbwZhme8eUw6g8q7AdxGJKakcBbv7+/PX0Gc2btf7Ru8cZA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+   <link rel="stylesheet" href="style.css" />
+
+   <title>Fast Service</title>
+</head>
+
+<body>
+   <?php include 'header.php'; ?>
+   <div class="container">
+      <br />
+      <br />
+      <br />
+      <br />
+   </div>
+   <div class="container">
+      <h1>Disclaimer for FAST SERVICE</h1>
+
+      <p>
+         If you require any more information or have any questions about our
+         site's disclaimer, please feel free to contact us by email at
+         info@exmple.com. Our Disclaimer was generated with the help of the
+         <a href="https://www.disclaimergenerator.net/">Disclaimer Generator</a>.
+      </p>
+
+      <h2>Disclaimers for fastservice</h2>
+
+      <p>
+         All the information on this website - fastservice.dummy - is
+         published in good faith and for general information purpose only.
+         fastservice does not make any warranties about the completeness,
+         reliability and accuracy of this information. Any action you take
+         upon the information you find on this website (fastservice), is
+         strictly at your own risk. fastservice will not be liable for any
+         losses and/or damages in connection with the use of our website.
+      </p>
+
+      <p>
+         From our website, you can visit other websites by following
+         hyperlinks to such external sites. While we strive to provide only
+         quality links to useful and ethical websites, we have no control
+         over the content and nature of these sites. These links to other
+         websites do not imply a recommendation for all the content found on
+         these sites. Site owners and content may change without notice and
+         may occur before we have the opportunity to remove a link which may
+         have gone 'bad'.
+      </p>
+
+      <p>
+         Please be also aware that when you leave our website, other sites
+         may have different privacy policies and terms which are beyond our
+         control. Please be sure to check the Privacy Policies of these sites
+         as well as their "Terms of Service" before engaging in any business
+         or uploading any information. Our Privacy Policy was created by
+         <a href="https://www.generateprivacypolicy.com/">the Privacy Policy Generator</a>.
+      </p>
+
+      <h2>Consent</h2>
+
+      <p>
+         By using our website, you hereby consent to our disclaimer and agree
+         to its terms.
+      </p>
+
+      <h2>Update</h2>
+
+      <p>
+         Should we update, amend or make any changes to this document, those
+         changes will be prominently posted here.
+      </p>
+   </div>
+   <!-- Footer -->
+   <?php include 'footer.php'; ?>
+   <!-- Footer -->
+
+   <!-- bundle cdn -->
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+</body>
+
+</html>
